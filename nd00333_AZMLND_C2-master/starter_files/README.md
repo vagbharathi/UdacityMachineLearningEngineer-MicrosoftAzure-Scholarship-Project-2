@@ -1,7 +1,5 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you shoulCancel changesd be sure to include.
-
-
 Operationalizing Machine Learning
+Udacity Nanodegree - Azure Machine Learning Engineer (Project II)
 
 *TODO:* Write an overview to your project.
 
