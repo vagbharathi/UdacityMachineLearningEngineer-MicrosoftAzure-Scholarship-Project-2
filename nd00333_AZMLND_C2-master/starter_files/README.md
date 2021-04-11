@@ -1,6 +1,6 @@
-Operationalizing Machine Learning
-Udacity Nanodegree - Azure Machine Learning Engineer (Project II)
+## Operationalizing Machine Learning
 
+## Overview
 *TODO:* Write an overview to your project.
 
 ## Architectural Diagram
