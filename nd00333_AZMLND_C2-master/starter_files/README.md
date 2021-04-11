@@ -1,4 +1,4 @@
-## Operationalizing Machine Learning
+### Operationalizing Machine Learning
 
 ## Overview
 *TODO:* Write an overview to your project.
