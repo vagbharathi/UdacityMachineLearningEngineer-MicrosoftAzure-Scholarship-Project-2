@@ -1,7 +1,8 @@
 # Operationalizing Machine Learning
 
 ## Overview
-MLO's aspects have been explored in this project. Project contains three parts: Deploying the best model run by AutoML, consuming through the end points, and automating the process bt creating a pipleine. 
+MLO's aspects have been explored in this project. Project contains three parts: Deploying the best model run by AutoML, consuming through the end points, and automating the process by creating a pipleine from creating the dataset to deploying model and scoring using that model by consuming the endpoint of deployed model.
+
 Deploying the best model: AutoML run has been set up for given bank-marketing dataset for classification task type. Best model has been identified with highest accuracy. This model was deployed using the Azure ML UI using ACI container. 
 
 
