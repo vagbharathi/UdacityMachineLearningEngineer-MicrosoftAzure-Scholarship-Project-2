@@ -1,32 +1,43 @@
 # Operationalizing Machine Learning
 
 ## Overview
+
 MLO's aspects have been explored in this project. Project contains three parts: Deploying the best model run by AutoML, consuming through the end points, and automating the process by creating a pipleine from creating the dataset to deploying model and scoring using that model by consuming the endpoint of deployed model.
 
 Deploying the best model: AutoML run has been set up for given bank-marketing dataset for classification task type. Best model has been identified with highest accuracy. This model was deployed using the Azure ML UI using ACI container. 
 
 
 ## Architectural Diagram
+
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 <img width="951" alt="Screen Shot 2021-04-11 at 9 48 43 AM" src="https://user-images.githubusercontent.com/76555474/114292538-c8de5b00-9aac-11eb-9761-9937f24ac0ba.png">
 
 
 ## Key Steps
+
 ### Deploy the model
 1. Dataset is created in the ML studio
 ![Screen Shot 2021-04-11 at 8 15 50 AM](https://user-images.githubusercontent.com/76555474/114290571-33d46580-9a9e-11eb-9309-eb3a2c0194f8.png)
+
 2. AutoMl experiment is set up for classification task type
 ![Screen Shot 2021-04-11 at 8 20 22 AM](https://user-images.githubusercontent.com/76555474/114290660-d260c680-9a9e-11eb-8fed-7f26aa8ecf3b.png)
+
 3. Best model is produced as the experiment is completed
 ![Screen Shot 2021-04-11 at 9 14 56 AM](https://user-images.githubusercontent.com/76555474/114293054-933b7100-9ab0-11eb-8782-8e9ca5960f98.png)
+
 4. Model is deployed with enabling Authentication and using ACI
 ![Screen Shot 2021-04-11 at 9 19 29 AM](https://user-images.githubusercontent.com/76555474/114293083-d4cc1c00-9ab0-11eb-9a1f-96f45d7319fd.png)
+
 5. Application insights is enabled by executing logs.py file 
 ![Screen Shot 2021-04-11 at 9 59 32 AM](https://user-images.githubusercontent.com/76555474/114293130-42784800-9ab1-11eb-9a0b-87c4ab879fc6.png)
 ![Screen Shot 2021-04-11 at 10 03 45 AM](https://user-images.githubusercontent.com/76555474/114293168-a7cc3900-9ab1-11eb-87d2-3187d0d0edee.png)
 ![Screen Shot 2021-04-11 at 10 04 05 AM](https://user-images.githubusercontent.com/76555474/114293170-aa2e9300-9ab1-11eb-9e38-35f4721731cf.png)
+
 6. Logging enabled in logs.py file and output shown
 ![Screen Shot 2021-04-11 at 9 57 40 AM](https://user-images.githubusercontent.com/76555474/114293217-f7ab0000-9ab1-11eb-92aa-64fa979e118d.png)
+
+### Consume the endpoints
+1. 
 
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
