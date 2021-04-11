@@ -11,8 +11,11 @@ Deploying the best model: AutoML run has been set up for given bank-marketing da
 
 ## Key Steps
 ### Deploy the model
-Dateset has been created in the ML studio.
+1. Dataset has been created in the ML studio.
 ![Screen Shot 2021-04-11 at 8 15 50 AM](https://user-images.githubusercontent.com/76555474/114290571-33d46580-9a9e-11eb-9309-eb3a2c0194f8.png)
+2. AutoMl experiment has been set up for classification task type.
+![Screen Shot 2021-04-11 at 8 20 22 AM](https://user-images.githubusercontent.com/76555474/114290660-d260c680-9a9e-11eb-8fed-7f26aa8ecf3b.png)
+ 
 
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
