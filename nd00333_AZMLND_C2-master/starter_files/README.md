@@ -10,7 +10,6 @@ Second part is swagger documentation, Azure ML produces JSON file for deployed m
 
 Last part of the project is to create, publish and consume the Pipeline. The above mentioned process is automed using Pipeline section in Azure using Python SDK. Using a jupyter notebook, an AutoML run was initiated, best model was obtained, endpoint was created and the new data was scored using the model endpoint. A REST endpoint of the Pipeline was created. The entire process was repeated by passing the dataset through this endpoint.
 
-
 ## Architectural Diagram
 
 ![0  Architectural_diagram](https://user-images.githubusercontent.com/76555474/114868256-573b3f80-9e13-11eb-8f16-b89f99aeb67a.png)
@@ -83,12 +82,11 @@ Last part of the project is to create, publish and consume the Pipeline. The abo
 6. Endpoints from publish Pipelines in Azure ML studio
 ![22  Published_endpoints](https://user-images.githubusercontent.com/76555474/114882572-b4d68880-9e21-11eb-82c9-f4264f63519f.png)
 
+## SCREEN RECORDING
+Find the below link for screen recording of the demonstration of the project
 
-## Screen Recording
 
-
-## Standout Suggestions
+## STANDOUT SUGGESTIONS
 
 1. Deep learning models can be included
 2. Different types of datasets can be included for consuming the endpoints
-3. 
