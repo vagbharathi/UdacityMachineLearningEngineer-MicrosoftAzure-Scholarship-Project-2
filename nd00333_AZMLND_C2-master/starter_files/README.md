@@ -83,8 +83,9 @@ Last part of the project is to create, publish and consume the Pipeline. The abo
 ![22  Published_endpoints](https://user-images.githubusercontent.com/76555474/114882572-b4d68880-9e21-11eb-82c9-f4264f63519f.png)
 
 ## SCREEN RECORDING
-Find the below link for screen recording of the demonstration of the project
 
+Find the below link for screen recording of the demonstration of the project
+https://youtu.be/xKFd63u-g80
 
 ## STANDOUT SUGGESTIONS
 
